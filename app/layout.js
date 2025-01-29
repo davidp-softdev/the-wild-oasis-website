@@ -11,7 +11,7 @@ const josefin = Josefin_Sans({
 
 export const metadata = {
   title: {
-    template: "The Wild Oasis | %s",
+    template: "%s | The Wild Oasis",
     default: "The Wild Oasis",
   },
   description:
